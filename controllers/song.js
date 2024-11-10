@@ -20,3 +20,10 @@ async function getAll(req, res) {
 }
 
 module.exports = { create, getAll };
+
+module.exports = {
+  getAll: (req, res) => {
+   
+  },
+ 
+};
