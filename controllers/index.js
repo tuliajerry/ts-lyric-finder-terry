@@ -5,3 +5,9 @@ module.exports = {
   auth,
   user,
 };
+
+
+module.exports = {
+  song: require('./song'), 
+  
+};
